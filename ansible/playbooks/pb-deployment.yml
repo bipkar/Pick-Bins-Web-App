@@ -11,5 +11,5 @@
    - name: Create and deploy the pick-bins client
      command: kubectl apply -f /opt/pick-bins-client/deployment.yaml
 
-   - name: Deploy teh client service
+   - name: Deploy the client service
      command: kubectl apply -f /opt/pick-bins-client/service.yaml
