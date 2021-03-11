@@ -16,4 +16,4 @@ Deployed with complete CI/CD pipeline : integrated the pipeline first through Je
   2. [Server2] :- Docker Host and K8S Worker Node - Docker host is where the application's client and server images are created and deployed in registry. Also, the worker node is where the k8s master deploys its services. 
   3. [Server3] :- K8S Master - where the deployment of our all services comes along. 
 
-NOTE :- In Jenkins, you need to install Publish over SSH plugin to transfer files and execute ansible playbooks on different servers. 
+NOTE :- In Jenkins, you need to install Publish over SSH plugin to transfer files and to execute ansible playbooks on different servers. 
