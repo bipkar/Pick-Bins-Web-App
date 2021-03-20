@@ -17,3 +17,5 @@ Deployed with complete CI/CD pipeline : integrated the pipeline first through Je
   3. [Server3] :- K8S Master - where the deployment of our all services comes along. 
 
 NOTE :- In Jenkins, you need to install Publish over SSH plugin to transfer files and to execute ansible playbooks on different servers. 
+
+https://github.com/bipkar/Pick-Bins-Web-App/blob/main/CI:CD-Pipeline.png 
