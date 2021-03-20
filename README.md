@@ -20,4 +20,4 @@ NOTE :- In Jenkins, you need to install Publish over SSH plugin to transfer file
 
 https://github.com/bipkar/Pick-Bins-Web-App/blob/main/CI:CD-Pipeline.png 
 
-![Alt text](Pick-Bins-Web-App/CI:CD-Pipeline.png?raw=true "Title")
+![Alt text](https://github.com/bipkar/Pick-Bins-Web-App/blob/main/CI:CD-Pipeline.png ?raw=true "Title")
