@@ -19,3 +19,5 @@ Deployed with complete CI/CD pipeline : integrated the pipeline first through Je
 NOTE :- In Jenkins, you need to install Publish over SSH plugin to transfer files and to execute ansible playbooks on different servers. 
 
 https://github.com/bipkar/Pick-Bins-Web-App/blob/main/CI:CD-Pipeline.png 
+
+![Alt text](Pick-Bins-Web-App/CI:CD-Pipeline.png?raw=true "Title")
