@@ -2,7 +2,7 @@
 A cross platform application to manage a schedule to notify the user about the arrival time of the pick-up vehicle. Based on Node.js, Express.js, and React.js frameworks, building an application including back-end restful API, front-end web app and mobile app on cross platforms.
 
 
-Deployed with complete CI/CD pipeline : integrated the pipeline first through Jenkins, provisioned the infrastructure using Terraform, automated the system task with Ansible, containerized applicaton with Docker, configured the full stack containers using Kubernetes, and finally deployed in Nginx web server.
+Deployed with complete CI/CD pipeline : integrated the pipeline first through Jenkins, provisioned the infrastructure using Terraform, automated the system task with Ansible, containerized application with Docker, configured the full stack containers using Kubernetes, and finally deployed in Nginx web server.
 
 **Technology Requirements**
   1. AWS - Amazon Web Services as server provider and networking. 
