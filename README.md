@@ -5,11 +5,12 @@ A cross platform application to manage a schedule to notify the user about the a
 Deployed with complete CI/CD pipeline : integrated the pipeline first through Jenkins, provisioned the infrastructure using Terraform, automated the system task with Ansible, containerized applicaton with Docker, configured the full stack containers using Kubernetes, and finally deployed in Nginx web server.
 
 **Technology Requirements**
-  1. Git - for source code management and version control.
-  2. Jenkins - to integrate the whole CI/CD pipeline of our application.
-  3. Ansible - to automate the system task for the web application. 
-  4. Docker - to create an image for all the required services and containerize it in a docker registry (Docker-Hub).
-  5. Kubernetes - to manage the containers and deploy each of the services in Nginx server. 
+  1. AWS - Amazon Web Services as server and networking. 
+  2. Git - for source code management and version control.
+  3. Jenkins - to integrate the whole CI/CD pipeline of our application.
+  4. Ansible - to automate the system task for the web application. 
+  5. Docker - to create an image for all the required services and containerize it in a docker registry (Docker-Hub).
+  6. Kubernetes - to manage the containers and deploy each of the services in Nginx server. 
 
 **Server Requirements**
   1. [Server1] :- Jenkins and Ansible Server - where all our Jenkins job resides and Ansible can perform the system tasks.
